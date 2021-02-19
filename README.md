@@ -1,5 +1,5 @@
-# KOQW
-Korean Quantum Computing Wiki </br>
+# quantumwiki.kr
+양자정보과학 백서 </br>
 This is repository for Jupter Notebooks.
 
 # 위키 작성 가이드
